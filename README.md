@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Tomixer12321/Tomixer12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![snake gif](https://github.com/Tomixer12321/Tomixer12321/blob/output/github-snake-dark.svg)
